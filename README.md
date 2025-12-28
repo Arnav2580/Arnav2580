@@ -44,15 +44,3 @@ Organized through regional and global chapters with a long-term vision of becomi
 Python · JavaScript / TypeScript · Smart contract environments (TON)  
 AWS · Docker · GitHub Actions · React · Node.js  
 System architecture, APIs, and cloud-native design
-
----
-
-## Media & Documentation (Recommended)
-To improve clarity and credibility for investors:
-- Product screenshots or short demo GIFs (`/assets/`)
-- Architecture diagrams (PNG/SVG or Mermaid)
-- One-page PDFs for each major project
-
-Example:
-```md
-![Jeevni Architecture](assets/jeevni-architecture.png)
