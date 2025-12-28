@@ -10,7 +10,7 @@ I am a founder and college student focused on building scalable products at the 
 ## What I’m Building
 
 **Jeevni — Healthtech Platform**  
-Accessible medical consultations with a free entry layer and a structured premium model.  
+Accessible appointmentless medical consultations with a free entry layer and a structured premium model.  
 Focus areas: preventive care, doctor marketplaces, triage systems, and patient data workflows.
 
 **Event Union — Global Events Community**  
