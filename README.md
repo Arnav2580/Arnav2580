@@ -17,11 +17,6 @@ Focus areas: preventive care, doctor marketplaces, triage systems, and patient d
 A community-driven platform connecting students, founders, and professionals to events worldwide.  
 Organized through regional and global chapters with a long-term vision of becoming a unified discovery layer for events.
 
-**Selected Experiments & PoCs**
-- **FitMint** — Blockchain-based incentives for healthy behavior  
-- **InfinityDex** — DeFi perpetual trading prototype (hackathon POC)  
-- Network Monitoring Systems, TON-based tooling, and infrastructure experiments
-
 ---
 
 ## Background & Highlights
@@ -41,6 +36,6 @@ Organized through regional and global chapters with a long-term vision of becomi
 ---
 
 ## Technology
-Python · JavaScript / TypeScript · Smart contract environments (TON)  
-AWS · Docker · GitHub Actions · React · Node.js  
+C · C++ · JAVA · Python · JavaScript / TypeScript · Smart contract environments  
+AWS · Docker · GitHub Actions · React · Node.js 
 System architecture, APIs, and cloud-native design
