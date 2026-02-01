@@ -7,6 +7,7 @@ I am a founder and college student focused on building **scalable, technology-dr
 
 My interests span **applied AI**, **uncertainty-aware machine learning**, and **zero-to-one product development**, with an emphasis on building systems that are reliable, interpretable, and usable in real-world settings.
 
+https://arnavgoyal.com
 ---
 
 ## What I’m Building
